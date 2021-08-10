@@ -45,11 +45,17 @@ header nav a:hover{
 /* filme - principal*/
 .filme-principal{
     font-size: 17px;
-    background: linear-gradient(rgba(0,0,0,.30),
-    rgba(0,0,0,.30)100%), url(AGuerraDoAmanha.jpg);
+  background-image: url(Army.jpg);
     
     height: 400px;
-    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1200px 544px ;
+    
+   
+    
+  
+   
     
     
     display: flex;
